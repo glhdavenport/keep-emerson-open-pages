@@ -1,4 +1,4 @@
-# keep-emerson-open-pages
+# Keep Emerson Elementary Open 
 
 Hello, we are members of the Emerson Elementary community.
 
