@@ -115,4 +115,5 @@ Emerson parents volunteer at the school every day. Their active involvement not 
 ## Emerson Elementary History
 
 Though the current building is from the late 1970’s, Emerson was established in 1894, around the inception of this state (24:01 in [this video](https://youtu.be/14nB6U4BdiM?t=1441)). A book called ["101 Years of Emerson Elementary School: The Gift of Its Inspired Children"](https://catalog.slcpl.org/search/title.aspx?ctx=1.1033.0.0.7&pos=1&cn=56693) is available in the Main SLC Public Library’s Special Collections.
+
 ![Whale says keep Emerson open](whale.jpg)
